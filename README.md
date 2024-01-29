@@ -10,4 +10,5 @@ here is a link to play it on itch.io
 https://nikoklatt.itch.io/racinggame
 You can also download the game.zip to play it on your own.
 
-https://codehs.com/uploads/c6d46278edb8be91bfca794dccaaee1b
+
+<img width="773" alt="Screenshot 2024-01-29 at 10 18 54 AM" src="https://github.com/BestNick44/RacingGame/assets/153546658/6595cd7b-7240-4f71-929d-b20b43164204">
